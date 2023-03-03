@@ -6,7 +6,7 @@
     // mp4: "mp4/bg.mp4",
     poster: "img/bg-mobile-fallback.png"
   }, {
-    posterType: 'jpg'
+    posterType: 'png'
   });
 
 })(jQuery); // End of use strict
